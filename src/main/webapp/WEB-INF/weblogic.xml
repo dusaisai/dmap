@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weblogic-web-app xmlns="http://xmlns.oracle.com/weblogic/weblogic-web-app"	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/ejb-jar_3_0.xsd   http://xmlns.oracle.com/weblogic/weblogic-web-app http://xmlns.oracle.com/weblogic/weblogic-web-app/1.2/weblogic-web-app.xsd">
+	<context-root>hblwpt</context-root>
+	<container-descriptor>
+		 <!-- <wls:prefer-application-packages>  
+            <wls:package-name>javax.persistence.*</wls:package-name>  
+            <wls:package-name>antlr.*</wls:package-name>  
+            <wls:package-name>com.bea.xbean.*</wls:package-name>  
+            <wls:package-name>com.bea.xml.*</wls:package-name>  
+        </wls:prefer-application-packages> --> 
+		<!-- <prefer-web-inf-classes>true</prefer-web-inf-classes> -->
+		<show-archived-real-path-enabled>true</show-archived-real-path-enabled>
+		<prefer-application-packages>  
+            <package-name>org.slf4j</package-name>  
+            <package-name>org.apache.commons.lang.*</package-name>
+            <package-name>antlr.*</package-name>
+            <package-name>org.hibernate.*</package-name>
+            <package-name>javax.persistence.*</package-name>
+         </prefer-application-packages>  
+	</container-descriptor>
+	<!-- <jsp-descriptor>  
+		    <jsp-param>  
+		        <param-name>encoding</param-name>  
+		        <param-value>UTF-8</param-value>  
+		    </jsp-param>  
+		    <jsp-param>  
+		        <param-name>compilerSupportsEncoding</param-name>  
+		        <param-value>true</param-value>  
+		    </jsp-param>  
+	 </jsp-descriptor>  -->
+	 
+</weblogic-web-app>

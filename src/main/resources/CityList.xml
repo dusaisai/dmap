@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<citylist>
+<city>
+	<name>安徽</name>
+	<lng>117.292218</lng>
+	<lat>31.867312</lat>
+</city>
+<city>
+	<name>福建</name>
+	<lng>119.30304</lng>
+	<lat>26.106051</lat>
+</city>
+<city>
+	<name>广东</name>
+	<lng>113.272698</lng>
+	<lat>23.137962</lat> 
+</city>
+<city>
+	<name>广西</name>
+	<lng>108.334063</lng>
+	<lat>22.821171</lat>
+</city>
+<city>
+	<name>贵州</name>
+	<lng>106.713693</lng>
+	<lat>26.604242</lat> 
+</city>
+<city>
+	<name>甘肃</name>
+	<lng>103.83282</lng>
+	<lat>36.065479</lat>
+</city>
+<city>
+	<name>海南</name>
+	<lng>110.355167</lng>
+	<lat>20.025669</lat>
+</city>
+<city>
+	<name>河南</name>
+	<lng>113.759604</lng>
+	<lat>34.772024</lat>
+</city>
+<city>
+	<name>黑龙江</name>
+	<lng>126.669503</lng>
+	<lat>45.747708</lat>
+</city>
+<city>
+	<name>湖北</name>
+	<lng>114.348779</lng>
+	<lat>30.551595</lat>
+</city>
+<city>
+	<name>湖南</name>
+	<lng>112.989982</lng>
+	<lat>28.118301</lat>
+</city>
+<city>
+	<name>河北</name>
+	<lng>114.476188</lng>
+	<lat>38.042284</lat>
+</city>
+<city>
+	<name>江苏</name>
+	<lng>118.769502</lng>
+	<lat>32.066586</lat>
+</city>
+<city>
+	<name>江西</name>
+	<lng>115.91646</lng>
+	<lat>28.68047</lat>
+</city>
+<city>
+	<name>吉林</name>
+	<lng>126.556073</lng>
+	<lat>43.843512</lat>
+</city>
+<city>
+	<name>辽宁</name>
+	<lng>123.435847</lng>
+	<lat>41.841317</lat>
+</city>	
+<city>
+	<name>宁夏</name>
+	<lng>106.265275</lng>
+	<lat>38.476848</lat>
+</city>		
+<city>
+	<name>内蒙古</name>
+	<lng>111.771822</lng>
+	<lat>40.823096</lat>
+</city>
+<city>
+	<name>青海</name>
+	<lng>101.786572</lng>
+	<lat>36.627027</lat>
+</city>	
+<city>
+	<name>山东</name>
+	<lng>117.02702</lng>
+	<lat>36.674414</lat>
+</city>
+<city>
+	<name>山西</name>
+	<lng>112.569095</lng>
+	<lat>37.87976</lat>
+</city>
+<city>
+	<name>陕西</name>
+	<lng>108.960637</lng>
+	<lat>34.271171</lat>
+</city>
+<city>
+	<name>四川</name>
+	<lng>104.082256</lng>
+	<lat>30.65679</lat>
+</city>
+<city>
+	<name>台湾</name>
+	<lng>120.361326</lng>
+	<lat>23.777223</lat>
+</city>
+<city>
+	<name>西藏</name>
+	<lng>91.124021</lng>
+	<lat>29.653148</lat>
+</city>			
+<city>
+	<name>新疆</name>
+	<lng>87.633574</lng>
+	<lat>43.799467</lat>
+</city>
+<city>
+	<name>云南</name>
+	<lng>102.716147</lng>
+	<lat>25.05156</lat>
+</city>
+</citylist>
